@@ -4,5 +4,5 @@ spec:
   - environment_slug: html
     git:
       branch: main
-      repo_clone_url: 
+      repo_clone_url: https://github.com/bhuus/SWE5063_Assignment1.git
     name: index
