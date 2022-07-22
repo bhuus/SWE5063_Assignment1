@@ -1,8 +1,0 @@
-name: Assignment1
-static_sites:
-- environment_slug: html
-  github:
-    branch: main
-    deploy_on_push: true
-    repo: SWE5063_Assignment1/SWE5063_assignment_1_BenjaminHuus
-  name: index

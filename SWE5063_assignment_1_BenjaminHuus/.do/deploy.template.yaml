@@ -1,8 +1,0 @@
-spec:
-  name: Assignment1
-  static_sites:
-  - environment_slug: html
-    git:
-      branch: main
-      repo_clone_url: https://github.com/bhuus/SWE5063_Assignment1.git
-    name: index
